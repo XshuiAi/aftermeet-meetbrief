@@ -125,16 +125,6 @@ aftermeet-meetbrief/
 
 私有过程文档、内部规则和未来方向不会放进公开仓库，默认保留在本地并被 Git 忽略。
 
-## 作者｜Creator
-
-Created by 小水。
-
-我是一个 AI 创作者和工作流构建者，关注如何让 AI 工具真正进入实际工作：内容生产、会议工作流、飞书自动化，以及 Agent-native Skills。
-
-AfterMeet 是我正在构建的一个产品线，用来探索会议结束之后，如何把会议变成文档、思维导图、可沉淀的知识资产。
-
-联系我：`xshui7726`
-
 ## 项目状态｜Status
 
 AfterMeet MeetBrief 目前处于 MVP 开发阶段。当前重点是把飞书会议到结构化图文会后文档的流程打磨成稳定、可安装、可复用的 Skill。
@@ -142,3 +132,9 @@ AfterMeet MeetBrief 目前处于 MVP 开发阶段。当前重点是把飞书会�
 ## License
 
 MIT
+
+## 关于作者
+
+**Sherry小水** · AI 博主 / AI Builder
+
+[GitHub](https://github.com/XshuiAi) · [抖音](https://v.douyin.com/9_PhmenzPd4/) · [小红书](https://xhslink.com/m/11P8CyKlR2D)
